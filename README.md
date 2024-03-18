@@ -1,32 +1,28 @@
+### Olá! eu sou o Icaro, aqui você encontrará um registro da minha jornada de aprendizado e crescimento na programação desde os primeiros passos até os projetos mais avançados.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
+Iniciante em programação e pretendo ser dev full-stack ou um dev back-end
 
-## Olá! Eu sou o Icaro Manoel
 
-![ShadowJS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowJS3&sho_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowJS3)](https://github.com/ShadowJS3/github-readme-stats)
-## Tecnologias que uso no meu dia
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+## Social
+<div align="center">  
+<a href="https://www.instagram.com/icaro_manoels2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
-## Sistema Operacional que eu uso
+## Skills 🚀
+![Tech](https://skills.thijs.gg/icons?i=javascript,nodejs)
 
-<div>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+## Futuros Aprendizados📚 
+![Tech](https://skills.thijs.gg/icons?i=c,python,php)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShadowJS3&show_icons=true&count_private=true&hide_border=true&title_color=9400d3&icon_color=9400d3&text_color=c9d1d9&bg_color=0d1117" alt="daddy github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowJS3&layout=compact&hide_border=true&title_color=9400d3&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-## IDE que eu uso
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowJS3&bg_color=000000&color=9400d3&line=9400d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</div> <br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShadowJS3&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=100&section=footer"/>
