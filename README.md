@@ -9,10 +9,10 @@ Iniciante em programação e pretendo ser dev full-stack ou um dev back-end
 </div>
 
 ## Skills 🚀
-![Tech](https://skills.thijs.gg/icons?i=javascript,nodejs)
+![Tech](https://skills.thijs.gg/icons?i=cs,javascript)
 
 ## Futuros Aprendizados📚 
-![Tech](https://skills.thijs.gg/icons?i=cs,python,php)
+![Tech](https://skills.thijs.gg/icons?i=nodejs,python,php)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShadowJS3&show_icons=true&count_private=true&hide_border=true&title_color=9400d3&icon_color=9400d3&text_color=c9d1d9&bg_color=0d1117" alt="daddy github stats" /> 
