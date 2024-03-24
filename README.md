@@ -1,6 +1,6 @@
 ### Olá! eu sou o Icaro, aqui você encontrará um registro da minha jornada de aprendizado e crescimento na programação desde os primeiros passos até os projetos mais avançados.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
-Iniciante em programação e pretendo ser dev full-stack ou um dev back-end
+Iniciante em programação e pretendo ser dev back-end e migrar para cybersecurity
 
 
 ## Social
