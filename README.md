@@ -9,7 +9,7 @@ Iniciante em programação e pretendo ser dev back-end e migrar para cybersecuri
 </div>
 
 ## Skills 🚀
-![Tech](https://skills.thijs.gg/icons?i=nodejs,javascript)
+![Tech](https://skills.thijs.gg/icons?i=nodejs,js)
 
 ## Futuros Aprendizados📚 
 ![Tech](https://skills.thijs.gg/icons?i=,ruby,php)
