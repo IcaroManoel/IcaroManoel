@@ -9,7 +9,7 @@ Iniciante em programação e pretendo ser dev back-end e migrar para cybersecuri
 </div>
 
 ## Skills 🚀
-![Tech](https://skillicons.dev/icons?i=js,typescript,nestjs)
+![Tech](https://skillicons.dev/icons?i=nodejs,typescript,nestjs)
 
 ## Futuros Aprendizados📚 
 ![Tech](https://skillicons.dev/icons?i=c,csharp,ruby)
