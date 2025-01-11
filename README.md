@@ -2,11 +2,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
 Iniciante em programação e pretendo ser dev back-end e migrar para cybersecurity
 
-
 ## Social
 <div align="center">  
 <a href="https://www.instagram.com/icaro_manoels2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/icaro-manoel-b546bb345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/icaro-manoel-b546bb345/" target="_blank"><img src="[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)"</a>
 </div>
 
 ## Skills 🚀
