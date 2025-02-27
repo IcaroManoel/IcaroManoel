@@ -8,10 +8,10 @@ Iniciante em programação e pretendo ser dev back-end e migrar para cybersecuri
 </div>
 
 ## Skills 🚀
-![Tech](https://skillicons.dev/icons?i=c)
+![Tech](https://skillicons.dev/icons?i=c, php)
 
 ## Futuros Aprendizados 📚 
-![Tech](https://skillicons.dev/icons?i=cs,ruby)
+![Tech](https://skillicons.dev/icons?i=sql)
 
 ## Conhecimentos Básico 📚 
 ![Tech](https://skillicons.dev/icons?i=linux)
